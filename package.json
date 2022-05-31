@@ -1,0 +1,29 @@
+{
+  "name": "dynamo-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yinglai921/dynamo-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yinglai921/dynamo-practice/issues"
+  },
+  "homepage": "https://github.com/Yinglai921/dynamo-practice#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1145.0",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.4"
+  }
+}
