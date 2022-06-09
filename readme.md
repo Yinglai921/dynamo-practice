@@ -18,6 +18,8 @@ Common sort key:
 
 Global secondary index: query the data when it's cross by the partition key, for example, partition key is team, but we want to group by team players.
 
+Design pattern/best practice: 
+https://www.slideshare.net/AmazonWebServices/design-patterns-using-amazon-dynamodb
 
 ### Rust docs: 
 
